@@ -2,7 +2,7 @@
 
 # Hola, soy Lucas 👋
 
-### Backend Developer · Java · Arquitectura Hexagonal · APIs REST
+### Backend Developer · Java · APIs REST
 
 📍 Madrid, España &nbsp;·&nbsp; 🟢 Disponible para trabajar &nbsp;·&nbsp; 🎓 FPGS DAM
 
