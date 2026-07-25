@@ -53,7 +53,7 @@ Backend developer specialized in **Java** and **REST APIs**, with hands-on exper
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="600" alt="Quote"/>
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 </div>
 
