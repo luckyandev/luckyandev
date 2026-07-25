@@ -28,12 +28,12 @@ Backend developer specialized in **Java** and **REST APIs**, with hands-on exper
 
 <div align="center">
 
-<table>
+<!--<table>
 <tr>
 <td><img src="https://github-readme-stats.vercel.app/api?username=luckyandev&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" height="160"/></td>
 <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luckyandev&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="160"/></td>
 </tr>
-</table>
+</table>-->
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=luckyandev&theme=react-dark&hide_border=true" alt="Commit Activity Graph" width="100%"/>
 
@@ -43,16 +43,18 @@ Backend developer specialized in **Java** and **REST APIs**, with hands-on exper
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:4f8ef7,100:0A66C2&height=10&width=100%25&section=header"/>
 
-<div align="center">
+<!--<div align="center">
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=luckyandev&theme=darkhub&no-frame=true&row=1&column=6)
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:4f8ef7,100:0A66C2&height=10&width=100%25&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:4f8ef7,100:0A66C2&height=10&width=100%25&section=footer"/>-->
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)</div>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="600" alt="Quote"/>
+
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:4f8ef7,100:0A66C2&height=10&width=100%25&section=header"/>
